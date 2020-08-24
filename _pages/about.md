@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the Vision, Language, and Learning Group (VL2G) at the [Indian Institute of Technology Jodhpur](http://iitj.ac.in/) supervised by [Dr. Anand Mishra](https://anandmishra22.github.io/). My research interests lie in Computer Vision, Natural Language Processing and Machine Learning.
+I am a Research Assistant in the Vision, Language, and Learning Group (VL2G) at [Indian Institute of Technology Jodhpur](http://iitj.ac.in/) supervised by [Dr. Anand Mishra](https://anandmishra22.github.io/). My research interests lie in Computer Vision, Natural Language Processing and Machine Learning.
 
 Currently, I am working on the problem of Visual Entity Linking, exploring how deep neural networks could be used to link visual entities (objects, faces, and texts in images) to knowledge graph. 
 I am also studying the potential of knowledge graphs in improving Visual Recognition and Visual Question Answering (VQA). 
