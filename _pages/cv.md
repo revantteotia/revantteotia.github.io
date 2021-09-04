@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/CV_Jan_2021.pdf" type="application/pdf" width="1000" height="1000" />
+<embed src="/files/CV_Sep_2021.pdf" type="application/pdf" width="1000" height="1000" />
 
 
 <!-- Education
