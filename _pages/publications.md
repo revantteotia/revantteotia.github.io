@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- TEMP WAY -->
+* <strong>Doubly Right Object Recognition</strong> <br>
+  <strong>Revant Teotia</strong>, Chengzhi Mao, Carl Vondrick 
+  <br>
+  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability (<strong>Spotlight talk, among top-5 papers</strong>)
+
+* <strong>Finding Spuriously Correlated Visual Attributes</strong> <br>
+  <strong>Revant Teotia</strong>, Chengzhi Mao, Carl Vondrick 
+  <br>
+  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability
+
 * <strong>Few-shot Visual Relationship Co-localization</strong> <br>
   <strong>Revant Teotia</strong>, Vaibhav Mishra, Mayank Maheshwari, Anand Mishra <br>
   ICCV 2021 <br>
