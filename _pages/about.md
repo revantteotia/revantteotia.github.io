@@ -16,7 +16,8 @@ Before that, I worked in Health Service Team at [Samsung R&D Institute Bangalore
 I completed my B.Tech. in Computer Science and Engineering from [Indian Institute of Technology Kanpur](https://iitk.ac.in/) in 2017.
 
 ## News 
-- **[Jul 2021]** 2 papers got accepted in [ICML 2022](https://icml.cc/Conferences/2022) [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home). One with **spotlight** presentation (among top-5 papers).
+- **[Sep 2022]** My work at [IITJ](https://vl2g.github.io/) on Commonsense and Factual Reasoning in Image Search got accepted at [AACL-IJCNLP 2022](https://www.aacl2022.org/).
+- **[Jul 2022]** 2 papers got accepted in [ICML 2022](https://icml.cc/Conferences/2022) [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home). One with **spotlight** presentation (among top-5 papers).
 
 - **[Sep 2021]** Started MS in [Computer Science at Columbia University](https://www.cs.columbia.edu/)
 - **[Jul 2021]** My work on Few-shot Visual Relationship Co-Localisation with Vaibhav Mishra, Mayank Maheshwari and Dr. Anand Mishra got accepted in [**ICCV 2021**](http://iccv2021.thecvf.com/home). The [paper and code](https://vl2g.github.io/projects/vrc/) are available now.
