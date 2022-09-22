@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- TEMP WAY -->
+* <strong>COFAR: Commonsense and Factual Reasoning in Image Search</strong> <br>
+  Prajwal Gatti, Abhirama Subramanyam Penamakuri, Anand Mishra, <strong>Revant Teotia</strong>, Shubhashis Sengupta, Roshni Ramnani 
+  <br>
+  Accepted in AACL-IJCNLP 2022
+
 * <strong>Doubly Right Object Recognition</strong> <br>
   <strong>Revant Teotia</strong>, Chengzhi Mao, Carl Vondrick 
   <br>
