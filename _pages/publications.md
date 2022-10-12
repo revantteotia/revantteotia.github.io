@@ -6,7 +6,7 @@ author_profile: true
 ---
 <!-- TEMP WAY -->
 * <strong>COFAR: Commonsense and Factual Reasoning in Image Search</strong> <br>
-  Prajwal Gatti, Abhirama Subramanyam Penamakuri, Anand Mishra, <strong>Revant Teotia</strong>, Shubhashis Sengupta, Roshni Ramnani 
+  Prajwal Gatti, Abhirama Subramanyam Penamakuri, <strong>Revant Teotia</strong>, Anand Mishra, Shubhashis Sengupta, Roshni Ramnani 
   <br>
   AACL-IJCNLP 2022 <br>
   [paper](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) | [project page](https://vl2g.github.io/projects/cofar/)
