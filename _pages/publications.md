@@ -8,22 +8,26 @@ author_profile: true
 * <strong>COFAR: Commonsense and Factual Reasoning in Image Search</strong> <br>
   Prajwal Gatti, Abhirama Subramanyam Penamakuri, Anand Mishra, <strong>Revant Teotia</strong>, Shubhashis Sengupta, Roshni Ramnani 
   <br>
-  Accepted in AACL-IJCNLP 2022
+  AACL-IJCNLP 2022 <br>
+  [paper](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) | [project page](https://vl2g.github.io/projects/cofar/)
 
+  
 * <strong>Doubly Right Object Recognition</strong> <br>
   <strong>Revant Teotia</strong>, Chengzhi Mao, Carl Vondrick 
   <br>
-  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability (<strong>Spotlight talk, among top-5 papers</strong>)
+  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability (<strong>Spotlight talk, among top-5 papers</strong>) <br>
+  [paper](https://openreview.net/pdf?id=O0hJOvsYUlt)
 
 * <strong>Finding Spuriously Correlated Visual Attributes</strong> <br>
   <strong>Revant Teotia</strong>, Chengzhi Mao, Carl Vondrick 
   <br>
-  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability
+  ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability <br>
+  [paper](https://openreview.net/pdf?id=HeqIy9TbctF)
 
 * <strong>Few-shot Visual Relationship Co-localization</strong> <br>
   <strong>Revant Teotia</strong>, Vaibhav Mishra, Mayank Maheshwari, Anand Mishra <br>
   ICCV 2021 <br>
-  [paper](https://arxiv.org/abs/2108.11618) | [project page](https://vl2g.github.io/projects/vrc/) | [code](https://github.com/vl2g/VRC.git)
+  [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Teotia_Few-Shot_Visual_Relationship_Co-Localization_ICCV_2021_paper.html) | [project page](https://vl2g.github.io/projects/vrc/) | [code](https://github.com/vl2g/VRC.git)
 
 * <strong>Realtime Indoor Workout Analysis Using Machine Learning & Computer Vision</strong> <br>
   Amit Nagarkoti, <strong> Revant Teotia</strong>, Amith K. Mahale, and Pankaj K. Das <br>
