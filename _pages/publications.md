@@ -20,7 +20,7 @@ author_profile: true
   Prajwal Gatti, Abhirama Subramanyam Penamakuri, <strong>Revant Teotia</strong>, Anand Mishra, Shubhashis Sengupta, Roshni Ramnani 
   <br>
   AACL-IJCNLP 2022 <br>
-  [paper](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) | [project page](https://vl2g.github.io/projects/cofar/)
+  [paper](https://aclanthology.org/2022.aacl-main.87/) | [project page](https://vl2g.github.io/projects/cofar/)
 
   
 * <strong>Doubly Right Object Recognition</strong> <br>
