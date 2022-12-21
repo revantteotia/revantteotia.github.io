@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an M.S. student in [Computer Science at Columbia University](https://www.cs.columbia.edu/). I work on Computer Vision problems as a Research Assistant in [Carl Vondrick's](http://www.cs.columbia.edu/~vondrick/) group.
+I am an M.S. student in [Computer Science at Columbia University](https://www.cs.columbia.edu/). I work on computer vision and multimodal learning in Prof. [Carl Vondrick's](http://www.cs.columbia.edu/~vondrick/) lab.
 
-Previously I worked as a Research Assistant with [Anand Mishra](https://anandmishra22.github.io/) at the Vision, Language, and Learning Group ([VL2G](https://vl2g.github.io/)), [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). At VL2G, I worked on external knowledge-aware image retrieval and [visual relationship co-localization](https://vl2g.github.io/projects/vrc/).
+Previously I was an RA in Prof. [Anand Mishra]'s(https://anandmishra22.github.io/) Vision, Language, and Learning Group ([VL2G](https://vl2g.github.io/)), [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). At VL2G, I worked on [knowledge-aware image retrieval](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) and [visual relationships](https://openaccess.thecvf.com/content/ICCV2021/html/Teotia_Few-Shot_Visual_Relationship_Co-Localization_ICCV_2021_paper.html).
 
-Before that, I worked in Health Service Team at [Samsung R&D Institute Bangalore (SRIB)](https://research.samsung.com/sri-b) for 2 years. There, I worked on health and fitness tracking services (pedometer, sleep monitor, heart-rate monitor) of wearable devices and BLE/NFC communication between smartwatch and fitness machines ([CES2020 News](https://www.technogym.com/int/newsroom/samsung-watch-ces-compatible/)). I also worked on developing an [on-device pose-estimation system](https://ieeexplore.ieee.org/document/8856547) for [Samsung Health Workout Programs](https://www.samsung.com/global/galaxy/apps/samsung-health/#programs) which uses Optical Flow, Dynamic Time Warping and CNN to detect deviations from the ideal exercise pose and suggest corrections.
+Before that, I worked in Health Service Team at [Samsung Research Institute (SRIB)](https://research.samsung.com/sri-b). There, I worked on wearable fitness devices ([CES2020 News](https://www.technogym.com/int/newsroom/samsung-watch-ces-compatible/)) and [on-device pose-estimation](https://ieeexplore.ieee.org/document/8856547) for [Samsung Health Workout Programs](https://www.samsung.com/global/galaxy/apps/samsung-health/#programs).
 
 I completed my B.Tech. in Computer Science and Engineering from [Indian Institute of Technology Kanpur](https://iitk.ac.in/) in 2017.
 
 ## News 
+- **[Dec 2022]** Preprint available for our recent work: [Doubly Right Object Recognition: A Why Prompt for Visual Rationales](https://arxiv.org/abs/2212.06202)
 - **[Sep 2022]** My work at [IITJ](https://vl2g.github.io/) on Commonsense and Factual Reasoning in Image Search got accepted at [AACL-IJCNLP 2022](https://www.aacl2022.org/).
 - **[Jul 2022]** 2 papers got accepted in [ICML 2022](https://icml.cc/Conferences/2022) [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home). One with **spotlight** presentation (among top-5 papers).
 
