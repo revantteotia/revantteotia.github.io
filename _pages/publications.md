@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- TEMP WAY -->
+* <strong>Affective Faces for Goal-Driven Dyadic Communication</strong> <br>
+  Scott Geng, <strong>Revant Teotia</strong>, Purva Tendulkar, Sachit Menon, Carl Vondrick 
+  <br>
+  In submission <br>
+
+* <strong>Doubly Right Object Recognition: A Why Prompt for Visual Rationales</strong> <br>
+  Chengzhi Mao, <strong>Revant Teotia</strong>, Amrutha Sundar, Sachit Menon, Junfeng Yang, Xin Wang, Carl Vondrick 
+  <br>
+  In submission <br>
+  [arXiv](https://arxiv.org/abs/2212.06202)
+
 * <strong>COFAR: Commonsense and Factual Reasoning in Image Search</strong> <br>
   Prajwal Gatti, Abhirama Subramanyam Penamakuri, <strong>Revant Teotia</strong>, Anand Mishra, Shubhashis Sengupta, Roshni Ramnani 
   <br>
