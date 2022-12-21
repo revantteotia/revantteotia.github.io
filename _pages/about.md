@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an M.S. student in [Computer Science at Columbia University](https://www.cs.columbia.edu/). I work on computer vision and multimodal learning in Prof. [Carl Vondrick's](http://www.cs.columbia.edu/~vondrick/) lab.
 
-Previously I was an RA in Prof. [Anand Mishra]'s(https://anandmishra22.github.io/) Vision, Language, and Learning Group ([VL2G](https://vl2g.github.io/)), [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). At VL2G, I worked on [knowledge-aware image retrieval](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) and [visual relationships](https://openaccess.thecvf.com/content/ICCV2021/html/Teotia_Few-Shot_Visual_Relationship_Co-Localization_ICCV_2021_paper.html).
+Previously I was an RA in Prof. [Anand Mishra](https://anandmishra22.github.io/)'s Vision, Language, and Learning Group ([VL2G](https://vl2g.github.io/)), [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). At VL2G, I worked on [knowledge-aware image retrieval](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) and [visual relationships](https://openaccess.thecvf.com/content/ICCV2021/html/Teotia_Few-Shot_Visual_Relationship_Co-Localization_ICCV_2021_paper.html).
 
 Before that, I worked in Health Service Team at [Samsung Research Institute (SRIB)](https://research.samsung.com/sri-b). There, I worked on wearable fitness devices ([CES2020 News](https://www.technogym.com/int/newsroom/samsung-watch-ces-compatible/)) and [on-device pose-estimation](https://ieeexplore.ieee.org/document/8856547) for [Samsung Health Workout Programs](https://www.samsung.com/global/galaxy/apps/samsung-health/#programs).
 
