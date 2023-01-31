@@ -9,6 +9,7 @@ author_profile: true
   Scott Geng, <strong>Revant Teotia</strong>, Purva Tendulkar, Sachit Menon, Carl Vondrick 
   <br>
   In submission <br>
+  [arXiv](https://arxiv.org/abs/2301.10939) [project page](https://realtalk.cs.columbia.edu/)
 
 * <strong>Doubly Right Object Recognition: A Why Prompt for Visual Rationales</strong> <br>
   Chengzhi Mao, <strong>Revant Teotia</strong>, Amrutha Sundar, Sachit Menon, Junfeng Yang, Xin Wang, Carl Vondrick 
