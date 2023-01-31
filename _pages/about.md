@@ -16,7 +16,7 @@ Before that, I worked in Health Service Team at [Samsung Research Institute (SRI
 I completed my B.Tech. in Computer Science and Engineering from [Indian Institute of Technology Kanpur](https://iitk.ac.in/) in 2017.
 
 ## News 
-- **[Jan 2023]** Preprint and project page available for our recent work: **Affective Faces for Goal-Driven Dyadic Communication** [paper](https://arxiv.org/abs/2212.06202) [project page](https://realtalk.cs.columbia.edu/)
+- **[Jan 2023]** Preprint and project page available for our recent work: **Affective Faces for Goal-Driven Dyadic Communication** [paper](https://arxiv.org/abs/2301.10939) [project page](https://realtalk.cs.columbia.edu/)
 - **[Dec 2022]** Preprint available for our recent work: [Doubly Right Object Recognition: A Why Prompt for Visual Rationales](https://arxiv.org/abs/2212.06202)
 - **[Sep 2022]** My work at [IITJ](https://vl2g.github.io/) on Commonsense and Factual Reasoning in Image Search got accepted at [AACL-IJCNLP 2022](https://www.aacl2022.org/).
 - **[Jul 2022]** 2 papers got accepted in [ICML 2022](https://icml.cc/Conferences/2022) [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home). One with **spotlight** presentation (among top-5 papers).
