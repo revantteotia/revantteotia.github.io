@@ -14,7 +14,7 @@ author_profile: true
 * <strong>Doubly Right Object Recognition: A Why Prompt for Visual Rationales</strong> <br>
   Chengzhi Mao, <strong>Revant Teotia</strong>, Amrutha Sundar, Sachit Menon, Junfeng Yang, Xin Wang, Carl Vondrick 
   <br>
-  In submission <br>
+  CVPR 2023 <br>
   [arXiv](https://arxiv.org/abs/2212.06202)
 
 * <strong>COFAR: Commonsense and Factual Reasoning in Image Search</strong> <br>
