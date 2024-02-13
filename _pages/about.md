@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Computer Science at [NYU Courant Institute of Mathematical Sciences](https://cs.nyu.edu/home/index.html). 
+I am a PhD student in Computer Science at [NYU Courant Institute of Mathematical Sciences](https://cs.nyu.edu/home/index.html). I work on problems in machine learning for healthcare with [Prof. Sumit Chopra](https://www.spchopra.org/).
 
 I have recently completed my MS in Computer Science from [Columbia University](https://www.cs.columbia.edu/) where I worked on computer vision and multimodal learning in Prof. [Carl Vondrick's](http://www.cs.columbia.edu/~vondrick/) lab. Before starting MS, I was an RA in Prof. [Anand Mishra](https://anandmishra22.github.io/)'s Vision, Language, and Learning Group ([VL2G](https://vl2g.github.io/)), [Indian Institute of Technology Jodhpur](http://iitj.ac.in/). At VL2G, I worked on [knowledge-aware image retrieval](https://vl2g.github.io/projects/cofar/docs/COFAR-AACL2022.pdf) and [visual relationships](https://openaccess.thecvf.com/content/ICCV2021/html/Teotia_Few-Shot_Visual_Relationship_Co-Localization_ICCV_2021_paper.html).
 
