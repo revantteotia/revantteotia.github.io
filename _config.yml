@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Revant Teotia"
 title_separator          : "-"
 name                     : &name "Revant Teotia"
-description              : &description "PhD student in Computer Science at NYU \n Visiting Researcher at Meta AI"
+description              : &description "PhD student in Computer Science at NYU | Visiting Researcher at Meta AI"
 url                      : "" #https://revantteotia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "revantteotia/revantteotia.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Revant Teotia"
   avatar           : "nj_dp.jpg" #"profile.png"
-  bio              : "PhD student in Computer Science at NYU \n Visiting Researcher at Meta AI"
+  bio              : "PhD student in Computer Science at NYU | Visiting Researcher at Meta AI"
   location         : "New York, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
