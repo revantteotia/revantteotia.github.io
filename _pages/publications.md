@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- TEMP WAY -->
+* <strong>DIMCIM: A Quantitative Evaluation Framework for Default-mode Diversity and Generalization in Text-to-Image
+Generative Models</strong> <br>
+  <strong>Revant Teotia</strong>, Candace Ross, Karen Ullrich, Sumit Chopra, Adriana Romero-Soriano, Melissa Hall, Matthew J. Muckley 
+  <br>
+  ICCV 2025 <br>
+  [arXiv](https://arxiv.org/abs/2506.05108) [code](https://github.com/facebookresearch/DIMCIM)
+
+* <strong>Codesign of Tensors Encoding And Transcoding: A Building Block For Decentralized AI</strong> <br>
+  <strong>Revant Teotia</strong>, Muhammad Haseeb 
+  <br>
+  Workshop on Networks for AI Computing, ACM SIGCOMM 2025 <br>
+  [paper](https://doi.org/10.1145/3748273.3749197)
+  
 * <strong>Affective Faces for Goal-Driven Dyadic Communication</strong> <br>
   Scott Geng, <strong>Revant Teotia</strong>, Purva Tendulkar, Sachit Menon, Carl Vondrick 
   <br>
